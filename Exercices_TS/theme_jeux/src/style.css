@@ -1,0 +1,21 @@
+.miniatureJeu,
+.jeu {
+    width: 200px;
+}
+
+.jeu {
+    margin-left: 10px;
+}
+
+.infosJeu {
+    text-align: center;
+}
+
+#listeJeux {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+form {
+    margin-top: 50px;
+}

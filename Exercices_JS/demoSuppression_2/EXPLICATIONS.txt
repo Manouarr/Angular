@@ -1,0 +1,7 @@
+Dans ce dossier, vous trouverez un exemple de gestion d'affichage d'objets en JS.
+
+le JS injecte dans le DOM différents films.
+
+Pour chaque film, on peut le supprimer.
+
+Cette version présente une seconde méthode pour insérer nos boutons de suppression.
